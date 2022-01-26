@@ -1,0 +1,22 @@
+{
+  "name": "simplefastwebserver",
+  "version": "1.0.0",
+  "description": "A simple and fast web server build using Node.js and Express. Created for fast deploy of a playground JS + HTML + CSS application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzotabasso/SimpleFastWebServer.git"
+  },
+  "author": "Lorenzo Tabasso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenzotabasso/SimpleFastWebServer/issues"
+  },
+  "homepage": "https://github.com/lorenzotabasso/SimpleFastWebServer#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
